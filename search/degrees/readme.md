@@ -14,8 +14,8 @@ Determine how many "degrees of separation" exist between two people.
 ## Usage
 python degrees.py small
 
-(a "large" directory was also used comprising the entirety of IMDb's database where:
-movies.csv had 344,277 rows
-people.csv had 1,044,500 rows
-stars.csv had 1,189,595 rows
-unfortunately its 56 MBs exceed github's limit)
+(a "large" directory was also used comprising the entirety of IMDb's database where:  
+movies.csv had 344,277 rows  
+people.csv had 1,044,500 rows  
+stars.csv had 1,189,595 rows  
+Unfortunately its 56 MBs exceed github's limit)
