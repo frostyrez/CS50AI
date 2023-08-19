@@ -10,7 +10,8 @@ Play Tic Tac Toe against an AI that always makes the optimal move (good luck!)
 - Prompt user to choose to play as X or O.
 - On AI's turn, recursively simulate all possible games that can take place between the current state and terminal states.
 - Continue until terminal state is reached.
-- To be added: Alpha-Beta Pruning.
+  
+To be added: Alpha-Beta Pruning.
 
 ## Usage
 `pip3 install -r requirements.txt` to install `pygame`  
