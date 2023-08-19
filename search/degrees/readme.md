@@ -2,7 +2,7 @@
 
 Determine how many "degrees of separation" exist between two people.
 
-<img width="383" alt="image" src="https://github.com/frostyrez/CS50AI/assets/123249055/517f83e5-2f7b-4bbe-a443-9d528d30d56f">
+<img width="600" alt="image" src="https://github.com/frostyrez/CS50AI/assets/123249055/517f83e5-2f7b-4bbe-a443-9d528d30d56f">
 
 ## Outline
 
