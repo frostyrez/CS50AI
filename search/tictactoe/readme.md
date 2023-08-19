@@ -13,4 +13,5 @@ Play Tic Tac Toe against an AI that always makes the optimal move (good luck!)
 - To be added: Alpha-Beta Pruning.
 
 ## Usage
-python runner.py
+`pip3 install -r requirements.txt` to install `pygame`  
+`python runner.py`
