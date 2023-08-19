@@ -12,7 +12,7 @@ Determine how many "degrees of separation" exist between two people.
 - Use depth-first search and backtracking to obtain smallest path
 
 ## Usage
-python degrees.py small
+`python degrees.py small`
 
 (a "large" directory was also used comprising the entirety of IMDb's database where:  
 movies.csv had 344,277 rows  
