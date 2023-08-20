@@ -1,6 +1,9 @@
 # Knights
 Solve logic puzzles.
 
+<img width="650" alt="image" src="https://github.com/frostyrez/CS50AI/assets/123249055/66085ff5-5f93-4dee-ad75-518d4ab754fd">
+
+
 ## Outline
 - Define logic symbols such as `and`, `not`, and `biconditional` in `logic.py`
 - Solve four "Knights and Knaves" puzzles, as popularized in Raymond Smullyan's 1978 "What is the name of this book?" puzzle book.
