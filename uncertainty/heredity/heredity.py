@@ -234,8 +234,6 @@ def normalize(probabilities):
         sum1 = sum(probabilities[person]["trait"].values())    
         for i in [True,False]:
             probabilities[person]["trait"][i] /= sum1
-    print("Done")
-
 
 
 if __name__ == "__main__":
