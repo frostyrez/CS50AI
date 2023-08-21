@@ -22,7 +22,14 @@ Design an AI that identifies which traffic sign appears in a photograph.
 
 <img width="700" alt="image" src="https://github.com/frostyrez/CS50AI/assets/123249055/4eca3dc6-1451-4b5d-8c59-889fc7c11427">
 
+- This model resulted in a 96.33% training accuracy and 97.43% testing accuracy.
+
 ## Usage
-`python traffic.py gtsrb [model.h5]`
+
+Download the [gtsrb data set](https://cdn.cs50.net/ai/2023/x/projects/5/gtsrb.zip) and put the folder in the above directory.
+
+Run `pip3 install -r requirements.txt` to install `opencv-python`, `scikit-learn`, and `tensorflow`.
+
+Run `python traffic.py gtsrb [model.h5]`
   
-`[model.h5]` optional argument which allows for saving of the model.
+`[model.h5]` is an optional argument which allows for saving of the model.
